@@ -7,6 +7,6 @@ RUN  apk add py3-pip
 RUN  pip3 install cherrypy
 
 RUN  mkdir /opt/simpleTest
-COPY simple.py /opt/simpleTest
+COPY ./simple.py /opt/simpleTest
 
 CMD ["/usr/bin/python3", "/opt/simpleTest/simple.py"]
