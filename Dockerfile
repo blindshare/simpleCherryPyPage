@@ -8,6 +8,5 @@ RUN  pip3 install cherrypy
 
 RUN  mkdir /opt/simpleTest
 COPY simple.py /opt/simpleTest
-COPY  leerlauf.sh /leerlauf.sh
 
 CMD ["/usr/bin/python3", "/opt/simpleTest/simple.py"]
