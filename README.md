@@ -1,7 +1,7 @@
 # simpleCherryPyPage
 WARNING
 
-The Alpine-Linux guys are "well known" to fuck-up their system so you end up with a half-cooked OS when it comes to certain libraries !
+The Alpine-Linux people are "well known" to fuck-up their system, so you end up with a half-cooked OS when it comes to certain libraries !
 
 ALWAY DOUBLE CHECK YOUR LIBRARY VERSIONS !!!
 
